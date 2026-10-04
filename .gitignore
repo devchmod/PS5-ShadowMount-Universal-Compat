@@ -1,0 +1,5 @@
+*.o
+*.elf
+.DS_Store
+config.ini.backup-*
+__pycache__/
